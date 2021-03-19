@@ -1,9 +1,18 @@
 
-#perfair-logo {
+.perfair-logo {
     margin-left: 10px;
     margin-right: 10px;
     width: 110px;
     }
-#background-color {
+.navbar {
 	background-color: #F8F1E7;
+}
+.footer {
+	background-color: #F8F1E7;
+}
+#insta-logo {
+	width: 50px;
+}
+#linkedin-logo {
+	width: 57px;
 }
