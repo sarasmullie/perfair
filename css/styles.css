@@ -71,7 +71,8 @@ h6 {
  	background: #F9DDB0;
 	border-radius: 25px;
  	padding: 40px 55px;
- 	margin: 15px 0;
+ 	margin-bottom: 0px;
+	margin-top: 15px;
 	min-height: 250px;
  	display: table;
 	 text-align: center;
@@ -90,7 +91,6 @@ h6 {
 .ct-featureBox .image img {
   display: block;
 	width: 100%;
-	
 }
 .footer {
 	background-color: #F8F1E7;
@@ -108,4 +108,5 @@ h6 {
 	background-color: darkred;
 	color: #F8F1E7;
 	padding: 30px;
+	margin-top: -125px;
 }
