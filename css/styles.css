@@ -102,4 +102,8 @@ h6 {
 	width: 40px;
 }
 
-\
+.row {
+	background-color: darkred;
+	color: #F8F1E7;
+	padding: 30px;
+}
