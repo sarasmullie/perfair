@@ -71,7 +71,8 @@ h6 {
  	background: #F9DDB0;
 	border-radius: 25px;
  	padding: 40px 55px;
- 	margin: 15px 0;
+ 	margin-bottom: 0px;
+	margin-top: 15px;
 	min-height: 250px;
  	display: table;
 	 text-align: center;
