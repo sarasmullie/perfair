@@ -95,6 +95,9 @@ h6 {
 .footer {
 	background-color: #F8F1E7;
 }
+.nav-link {
+	color: darkgray
+}
 #insta-logo {
 	width: 40px;
 }
@@ -102,8 +105,9 @@ h6 {
 	width: 40px;
 }
 
-.row {
+.news-row {
 	background-color: darkred;
 	color: #F8F1E7;
-	padding: 30px;
+	width: auto;
+	padding: 50px;
 }
