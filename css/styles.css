@@ -104,10 +104,8 @@ h6 {
 #linkedin-logo {
 	width: 40px;
 }
-
-.news-row {
+.row {
 	background-color: darkred;
 	color: #F8F1E7;
-	width: auto;
-	padding: 50px;
+	padding: 30px;
 }
