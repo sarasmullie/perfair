@@ -28,6 +28,12 @@ h5,
 h6 {
    	color: rgba(166,60,14,1.00);
 }
+
+.btn-secondary {
+  background-color: #A63C0E;
+  margin-bottom: 20px;
+  text-align: center;
+}
 .ct-featureBox h4 {
   padding: 10px 0 5px;
   color: #00000;
