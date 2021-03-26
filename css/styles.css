@@ -1,7 +1,10 @@
 body {
 	margin: 0;
 	padding: 0;
+  background-color: #F9ECDF;
 }
+
+
 .perfair-logo {
     margin-left: 10px;
     margin-right: 10px;
@@ -10,8 +13,15 @@ body {
 .navbar {
 	background-color: #F8F1E7;
 }
-h1, 
-h2, 
+
+h1 {
+  color: #A63C0E;
+} 
+
+h2 {
+  font-family: 'Aleo', serif;
+  color: #A63C0E;
+} 
 h3, 
 h4, 
 h5, 
@@ -109,4 +119,11 @@ h6 {
 	color: #F8F1E7;
 	padding: 30px;
 	margin-top: -125px;
+}
+
+.col-sm {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
