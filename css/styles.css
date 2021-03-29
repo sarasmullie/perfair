@@ -135,5 +135,18 @@ h6 {
 .border-google-maps {
 	border: solid
 	#A73C0F;
-	margin: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.accordion {
+	width: 475px;
+	align-content: center;
+}
+.button-1 {
+	background-color: #A73C10;
+	color: white;
+}
+.accordion-1 {
+	background-color:#A73C10;
+	color: white;
 }
