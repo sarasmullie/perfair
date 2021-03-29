@@ -126,10 +126,14 @@ h6 {
 	padding: 30px;
 	margin-top: -125px;
 }
-
 .col-sm {
   margin-top: 30px;
   margin-bottom: 20px;
   margin-left: 10px;
   margin-right: 10px;
+}
+.border-google-maps {
+	border: solid
+	#A73C0F;
+	margin: 20px;
 }
