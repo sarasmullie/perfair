@@ -138,15 +138,12 @@ h6 {
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
-.accordion {
-	width: 475px;
-	align-content: center;
+.list {
+	width: 460px;
+	margin-top: 20px;
 }
-.button-1 {
+.content-list {
 	background-color: #A73C10;
 	color: white;
-}
-.accordion-1 {
-	background-color:#A73C10;
-	color: white;
+	text-align-last: right;
 }
