@@ -147,3 +147,19 @@ h6 {
 	color: white;
 	text-align-last: center;
 }
+
+.card {
+  background-color:#F8F1E7;
+  text-align: center;
+  border-radius: 25px;
+}
+
+.price {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.roundborder{
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
