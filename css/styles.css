@@ -29,7 +29,7 @@ h6 {
    	color: rgba(166,60,14,1.00);
 }
 
-.btn-secondary {
+.btn {
   background-color: #A63C0E;
   margin-bottom: 20px;
   text-align: center;
@@ -121,7 +121,7 @@ h6 {
 	width: 40px;
 }
 .news-row {
-	background-color: darkred;
+	background-color: #607462;
 	color: #F8F1E7;
 	padding: 30px;
 	margin-top: -125px;
@@ -146,4 +146,20 @@ h6 {
 	background-color: #A73C10;
 	color: white;
 	text-align-last: center;
+}
+
+.card {
+  background-color:#F8F1E7;
+  text-align: center;
+  border-radius: 25px;
+}
+
+.price {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.roundborder{
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
 }
