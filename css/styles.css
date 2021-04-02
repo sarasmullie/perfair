@@ -131,7 +131,7 @@ h6 {
 #insta-logo {
 	width: 40px;
 }
-#linkedin-logo {
+#facebook-logo {
 	width: 40px;
 }
 .news-row {
@@ -190,3 +190,7 @@ h6 {
 	width: 20%;
 	width: 100%;
 } 
+
+.image-news {
+	border-radius: 22px;
+}
