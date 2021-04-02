@@ -140,6 +140,10 @@ h6 {
 .list {
 	width: 460px;
 	margin-top: 20px;
+	border-top-left-radius: 22px;
+	border-top-right-radius: 22px;
+	border-bottom-left-radius: 22px;
+	border-bottom-right-radius: 22px;
 }
 .content-list {
 	background-color: #A73C10;
