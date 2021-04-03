@@ -23,8 +23,7 @@ h1 {
 
 h2 {
   font-family: 'Aleo', serif;
-  color: #A63C0E;
-  font-weight: bold;	
+  color: #A63C0E;	
 } 
 h3 {
   font-family: 'Aleo', serif;		
@@ -274,4 +273,10 @@ span.price {
   margin-top: 30px;
   padding-right: 40px;
   padding-left: 40px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: #F8F1E7;
+  color: #607462;
 }
