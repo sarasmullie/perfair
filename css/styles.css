@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
-  background-color: #F9ECDF;
+	background-color: #F9ECDF;
 }
 
 .perfair-logo {
@@ -34,6 +34,11 @@ h5 {
   font-weight: bold;	
   color: #A63C0E;
   font-size: 50px;
+}
+
+.captionstyle{
+  color: #FFFFFF;
+  text-shadow: 0px 0px 1px black;
 }
 
 .slidertext {
